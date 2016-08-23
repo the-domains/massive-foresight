@@ -1,14 +1,14 @@
 layout_spectrum: 0.0006742354016751051
-typography_spectrum: 0.3784742639400065
+typography_spectrum: 0.7103559030219913
 color:
-  brandStrength: 0.7263986303005368
-  lightness: 0.9997225659899414
-  saturation: 0.9726397844497114
-  rhythmicContrast: 0.7169909654185176
+  brandStrength: 0.5912035265937448
+  lightness: 0.5635643373243511
+  saturation: 0.02065952494740486
+  rhythmicContrast: 0.3869537392165512
   brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
 name: massive foresight
